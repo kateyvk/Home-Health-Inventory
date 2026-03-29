@@ -1,6 +1,20 @@
+### Home Healthcare Inventory
+# I created this app because I have a disabled father who has spent over 10 years receiving home healthcare. Unlike traditional healthcare, home healthcare is a lot less stringent, and there may not be a perfectly organized system to know when you need to replace some medical supplies. But with this webapp now there is an easy way to track important medical supplies, so you know when to replace or reorder materials. This app also provides a space where the user can create home care training guides for different aspects of the Patient's care. 
+# Demo 
+[![Video Title](https://youtu.be/MfGrm9mSsBQ)](https://youtu.be/MfGrm9mSsBQ)
+
+
+## Who created this?
+# Katey Van kirk
+
+## Ai
+# ChatGPT was used to formulate the tech stack needed for this project, along with some code. I used chatGPT to help me generate some code because I have never used TS or JS or the NEXT.JS tools, so this helped me learn the format while creating the project.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Running the project
 
 First, run the development server:
 
@@ -16,21 +30,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
